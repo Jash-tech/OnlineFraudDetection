@@ -8,3 +8,6 @@
    3. pip install -r requirements.txt (set setup.py file)
 
 ## Day2:
+1. Create a cluster in mongodb and create connection strings
+2. Create notebook folder and python file there  , import CSV and insert in mongodb.
+3. Create a exception, logger and utils file.
